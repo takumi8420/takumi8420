@@ -1,16 +1,18 @@
-## Hi there 👋
+## 📊 GitHub Stats & Language Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takumi8420&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
 
-<!--
-**takumi8420/takumi8420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=takumi8420&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
+</p>
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=takumi8420&theme=juicyfresh&no-bg=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 📧 Email: kon0428takumi@gmail.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/%E6%8B%93%E6%B5%B7-%E4%BB%8A-15284b348/)
+- 🐦 Twitter: [@YourTwitterHandle](https://x.com/ponta8240)
