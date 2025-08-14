@@ -9,5 +9,5 @@
 
 ## 📫 Connect with Me
 - 📧 Email: kon0428takumi@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/%E6%8B%93%E6%B5%B7-%E4%BB%8A-15284b348/)
-- 🐦 Twitter: [@YourTwitterHandle](https://x.com/ponta8240)
+- 💼 LinkedIn: https://www.linkedin.com/in/%E6%8B%93%E6%B5%B7-%E4%BB%8A-15284b348
+- 🐦 Twitter: https://x.com/ponta8240
