@@ -3,9 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=takumi8420&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takumi8420&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=takumi8420&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&include_all_commits=true" alt="ovi" width="410" />
 
 ## 📫 Connect with Me
 - 📧 Email: kon0428takumi@gmail.com
